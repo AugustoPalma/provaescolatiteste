@@ -1,0 +1,7 @@
+{
+  "slug": "provaescolatiteste",
+  "EXAM_DIR": "exams/dummy-exam",
+  "PREFIXO": "Professor",
+  "RAZAO_PREFERENCIAL": 2,
+  "PORTA_API": 9203
+}
